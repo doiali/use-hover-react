@@ -2,11 +2,11 @@
 a hook that returns a hover state and a ref, pass the ref to a component, then the hover state becomes true when the mouse is hovering that component
 
 ## Installation
-```
+```js
 npm install @doiali/use-hover
 ```
 ## Usage
-```
+```js
 import React from 'react';
 import useHover from '@doiali/use-hover';
 
