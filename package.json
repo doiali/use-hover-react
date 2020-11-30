@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "a hook to hover feature",
   "main": "dist/index.js",
+  "repository": "https://github.com/doiali/use-hover-react",
   "scripts": {
     "build": "rollup -c",
     "start": "rollup -c -w",
