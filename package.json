@@ -1,6 +1,6 @@
 {
   "name": "@doiali/use-hover",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a hook to hover feature",
   "main": "dist/index.js",
   "repository": "https://github.com/doiali/use-hover-react",
